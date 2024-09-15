@@ -1,0 +1,11 @@
+groq
+moviepy
+transformers
+datasets
+huggingface_hub
+torch
+opencv
+tensorflow
+accelerate
+tf-keras
+pillow
